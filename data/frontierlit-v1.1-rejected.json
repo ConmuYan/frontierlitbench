@@ -1,0 +1,253 @@
+{
+  "records": 31,
+  "papers": [
+    {
+      "title": "AnyV2V: A Tuning-Free Framework For Any Video-to-Video Editing Tasks",
+      "track": "A",
+      "venue": "TMLR",
+      "year": 2024,
+      "paper_id": null,
+      "reason": "The paper's claimed venue TMLR is outside the Track A whitelist, so the recommendation cannot satisfy the task constraints."
+    },
+    {
+      "title": "Consistent Video Editing as Flow-Driven Image-to-Video Generation",
+      "track": "A",
+      "venue": "CVPR",
+      "year": 2026,
+      "paper_id": null,
+      "reason": "Acceptance at an eligible peer-reviewed venue could not be verified: no official acceptance evidence"
+    },
+    {
+      "title": "Diffusion for World Modeling: Visual Details Matter in Atari",
+      "track": "A",
+      "venue": "NeurIPS",
+      "year": 2024,
+      "paper_id": null,
+      "reason": "An Atari latent-dynamics world model; it contributes a dynamics model plus planning, not a video generation or video editing method, so it is outside Track A's scope (Track B topic)."
+    },
+    {
+      "title": "Eevee: Towards Close-up High-Resolution Video-Based Virtual Try-on",
+      "track": "A",
+      "venue": "CVPR",
+      "year": 2026,
+      "paper_id": null,
+      "reason": "Acceptance at an eligible peer-reviewed venue could not be verified: no official acceptance evidence"
+    },
+    {
+      "title": "Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework",
+      "track": "A",
+      "venue": "CPAL",
+      "year": 2026,
+      "paper_id": null,
+      "reason": "The paper's claimed venue CPAL is outside the Track A whitelist, so the recommendation cannot satisfy the task constraints."
+    },
+    {
+      "title": "GR3EN: Generative Relighting for 3D Environments",
+      "track": "A",
+      "venue": "SIGGRAPH",
+      "year": 2026,
+      "paper_id": null,
+      "reason": "Static 3D scene relighting from reconstructions; no video generation, editing or temporal consistency contribution, so it is outside Track A's scope."
+    },
+    {
+      "title": "Learning Temporally Consistent Video Depth from Video Diffusion Priors",
+      "track": "A",
+      "venue": "CVPR",
+      "year": 2025,
+      "paper_id": null,
+      "reason": "The paper uses video diffusion priors to estimate depth from video; its central task is video depth estimation rather than video generation or video editing. It is a real CVPR paper but outside this Track A scope."
+    },
+    {
+      "title": "VHOI: Controllable Video Generation of Human–Object Interactions from Sparse Trajectories via Motion Densification",
+      "track": "A",
+      "venue": "CVPR",
+      "year": 2026,
+      "paper_id": null,
+      "reason": "Acceptance at an eligible peer-reviewed venue could not be verified: no official acceptance evidence"
+    },
+    {
+      "title": "VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing",
+      "track": "A",
+      "venue": "TMLR",
+      "year": 2024,
+      "paper_id": null,
+      "reason": "The paper's claimed venue TMLR is outside the Track A whitelist, so the recommendation cannot satisfy the task constraints."
+    },
+    {
+      "title": "Zero4D: Training-Free 4D Video Generation From Single Video using Off-the-Shelf Video Diffusion Models",
+      "track": "A",
+      "venue": "CVPR",
+      "year": 2026,
+      "paper_id": null,
+      "reason": "Acceptance at an eligible peer-reviewed venue could not be verified: no official acceptance evidence"
+    },
+    {
+      "title": "CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models",
+      "track": "B",
+      "venue": "CVPR",
+      "year": 2025,
+      "paper_id": null,
+      "reason": "Multi-view video diffusion for 4D scene reconstruction; a generative reconstruction method without dynamics modelling or planning, so it is outside Track B's scope."
+    },
+    {
+      "title": "From Slow Bidirectional to Fast Autoregressive Video Diffusion Models",
+      "track": "B",
+      "venue": "CVPR",
+      "year": 2025,
+      "paper_id": null,
+      "reason": "A video-diffusion sampling/distillation speed-up for text-to-video and editing; it contributes no latent dynamics, action-conditioned prediction or environment simulation (Track A topic)."
+    },
+    {
+      "title": "Neural Operators with Localized Integral and Differential Kernels",
+      "track": "B",
+      "venue": "ICML",
+      "year": 2024,
+      "paper_id": null,
+      "reason": "Operator learning for PDE surrogates; it is scientific-machine-learning theory with no world model, planning or embodied-simulation contribution (outside Track B's scope)."
+    },
+    {
+      "title": "ShowUI: One Vision-Language-Action Model for GUI Visual Agent",
+      "track": "B",
+      "venue": "CVPR",
+      "year": 2025,
+      "paper_id": null,
+      "reason": "A GUI visual-agent model (Track C topic); it contributes no world model, dynamics or environment simulation, so it is outside Track B's scope."
+    },
+    {
+      "title": "Wonderland: Navigating 3D Scenes From a Single Image",
+      "track": "B",
+      "venue": "CVPR",
+      "year": 2025,
+      "paper_id": null,
+      "reason": "Single-image 3D scene generation via video diffusion; it produces assets, not a predictive dynamics or environment model, so it is outside Track B's scope."
+    },
+    {
+      "title": "ACL 2026 Industry Track: Overview",
+      "track": "C",
+      "venue": "ACL",
+      "year": 2026,
+      "paper_id": null,
+      "reason": "Acceptance at an eligible peer-reviewed venue could not be verified: only Findings/Industry/Tutorial record"
+    },
+    {
+      "title": "Android in the Zoo: Chain-of-Action-Thought for GUI Agents",
+      "track": "C",
+      "venue": "EMNLP",
+      "year": 2024,
+      "paper_id": null,
+      "reason": "Acceptance at an eligible peer-reviewed venue could not be verified: only Findings/Industry/Tutorial record"
+    },
+    {
+      "title": "Ask-before-Plan: Proactive Language Agents for Real-World Planning",
+      "track": "C",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2024,
+      "paper_id": null,
+      "reason": "Acceptance at an eligible peer-reviewed venue could not be verified: only Findings/Industry/Tutorial record"
+    },
+    {
+      "title": "BackdoorAgent: A Unified Framework for Backdoor Attacks on LLM-based Agents",
+      "track": "C",
+      "venue": "ACL",
+      "year": 2026,
+      "paper_id": null,
+      "reason": "Acceptance at an eligible peer-reviewed venue could not be verified: only Findings/Industry/Tutorial record"
+    },
+    {
+      "title": "Data Interpreter: An LLM Agent For Data Science",
+      "track": "C",
+      "venue": "ACL",
+      "year": 2024,
+      "paper_id": null,
+      "reason": "Acceptance at an eligible peer-reviewed venue could not be verified: no official acceptance record"
+    },
+    {
+      "title": "Do LLMs Catch Their Own Mistakes? A Comprehensive Benchmark for Reflective Tool Use LLMs",
+      "track": "C",
+      "venue": "ACL",
+      "year": 2026,
+      "paper_id": null,
+      "reason": "Acceptance at an eligible peer-reviewed venue could not be verified: only Findings/Industry/Tutorial record"
+    },
+    {
+      "title": "HeraSys: Collaborative Serving of Multiple LLM Workflows via Fine-Grained End-to-End Optimization",
+      "track": "C",
+      "venue": "ICML",
+      "year": 2026,
+      "paper_id": null,
+      "reason": "The contribution is an LLM serving/scheduling system that co-optimises multiple agentic workflows on shared hardware; it reports latency and throughput rather than agent capability, so it is systems infrastructure rather than Track C agent research."
+    },
+    {
+      "title": "InfiAgent: An Infinite-Horizon Framework for General-Purpose Autonomous Agents",
+      "track": "C",
+      "venue": "ACL",
+      "year": 2026,
+      "paper_id": null,
+      "reason": "Acceptance at an eligible peer-reviewed venue could not be verified: only Findings/Industry/Tutorial record"
+    },
+    {
+      "title": "Language Agents: Foundations, Prospects, and Risks",
+      "track": "C",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2024,
+      "paper_id": null,
+      "reason": "Acceptance at an eligible peer-reviewed venue could not be verified: only Findings/Industry/Tutorial record"
+    },
+    {
+      "title": "Large Language Models Meet Knowledge Graphs for Question Answering: Synthesis and Opportunities",
+      "track": "C",
+      "venue": "EMNLP",
+      "year": 2025,
+      "paper_id": null,
+      "reason": "A survey of KG-augmented question answering; no agent, tool-use or environment interaction contribution, so it is outside Track C's scope."
+    },
+    {
+      "title": "Learning to Use Tools via Cooperative and Interactive Agents",
+      "track": "C",
+      "venue": "EMNLP",
+      "year": 2024,
+      "paper_id": null,
+      "reason": "Published in the Findings track, not the main conference proceedings named in the task whitelist."
+    },
+    {
+      "title": "Les Dissonances: Cross-Tool Harvesting and Polluting in Pool-of-Tools Empowered LLM Agents",
+      "track": "C",
+      "venue": "NDSS",
+      "year": 2026,
+      "paper_id": null,
+      "reason": "The paper's claimed venue NDSS is outside the Track C whitelist, so the recommendation cannot satisfy the task constraints."
+    },
+    {
+      "title": "MARCO: Multi-Agent Real-time Chat Orchestration",
+      "track": "C",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2024,
+      "paper_id": null,
+      "reason": "Acceptance at an eligible peer-reviewed venue could not be verified: only Findings/Industry/Tutorial record"
+    },
+    {
+      "title": "MemoBrain: Executive Memory as an Agentic Brain for Reasoning",
+      "track": "C",
+      "venue": "ACL",
+      "year": 2026,
+      "paper_id": null,
+      "reason": "Acceptance at an eligible peer-reviewed venue could not be verified: only Findings/Industry/Tutorial record"
+    },
+    {
+      "title": "ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges",
+      "track": "C",
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "year": 2025,
+      "paper_id": null,
+      "reason": "Acceptance at an eligible peer-reviewed venue could not be verified: only Findings/Industry/Tutorial record"
+    },
+    {
+      "title": "SMART: Self-Aware Agent for Tool Overuse Mitigation",
+      "track": "C",
+      "venue": "ACL",
+      "year": 2025,
+      "paper_id": null,
+      "reason": "Published in the Findings track, not the main conference proceedings named in the task whitelist."
+    }
+  ]
+}

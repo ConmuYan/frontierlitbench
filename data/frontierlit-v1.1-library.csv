@@ -1,0 +1,758 @@
+﻿title,track,venue,year,tier,Q,citations,stars
+VACE: All-in-One Video Creation and Editing,A,ICCV,2025,S,0.9929,81,4050
+AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning,A,ICLR,2024,S,0.91,1804,12293
+Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation,A,ICML,2026,S,0.91,226,1026
+TokenFlow: Consistent Diffusion Features for Consistent Video Editing,A,ICLR,2024,S,0.91,439,1708
+Recammaster: Camera-Controlled Generative Rendering From a Single Video,A,ICCV,2025,S,0.9027,346,1898
+Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling,A,SIGGRAPH,2024,S,0.902,75,191
+ControlVideo: Training-free Controllable Text-to-video Generation,A,ICLR,2024,S,0.8975,359,861
+Time-to-Move: Training-Free Motion-Controlled Video Generation via Dual-Clock Denoising,A,ICLR,2026,S,0.8964,13,375
+"UniVideo: Unified Understanding, Generation, and Editing for Videos",A,ICLR,2026,S,0.8964,90,576
+VidToMe: Video Token Merging for Zero-Shot Video Editing,A,CVPR,2024,S,0.8919,50,229
+Video-P2P: Video Editing with Cross-Attention Control,A,CVPR,2024,S,0.8858,99,430
+UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing,A,ACM MM,2025,S,0.8737,22,120
+DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation,A,CVPR,2025,S,0.8734,90,327
+MiniMax-Remover: Taming Bad Noise Helps Video Object Removal,A,NeurIPS,2025,S,0.8665,9,624
+AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers,A,CVPR,2025,S,0.8608,33,168
+FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing,A,ICLR,2024,S,0.86,175,212
+SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction,A,ICLR,2024,S,0.8592,29,966
+Video Interpolation with Diffusion Models,A,CVPR,2024,S,0.8501,45,193
+I2V-Adapter: A General Image-to-Video Adapter for Diffusion Models,A,SIGGRAPH,2024,S,0.8459,33,230
+EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning,A,ICLR,2026,S,0.8418,56,140
+Light-X: Generative 4D Video Rendering with Camera and Illumination Control,A,ICLR,2026,S,0.8418,12,195
+VideoCoF: Unified Video Editing with Temporal Reasoner,A,CVPR,2026,S,0.8415,5,210
+Autoregressive Video Generation without Vector Quantization,A,ICLR,2025,S,0.8395,19,661
+Dual-Expert Consistency Model for Efficient and High-Quality Video Generation,A,ICCV,2025,S,0.8309,23,207
+Just-Dub-It: Video dubbing via Joint Audio-Visual Diffusion,A,SIGGRAPH,2026,S,0.8247,2,263
+FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality,A,ICLR,2025,S,0.8132,8,268
+WISA: World simulator assistant for physics-aware text-to-video generation,A,NeurIPS,2025,S,0.8036,13,285
+CCEdit: Creative and Controllable Video Editing via Diffusion Models,A,CVPR,2024,S,0.8001,45,117
+Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models,A,ICLR,2026,S,0.7941,11,67
+MovieBench: A Hierarchical Movie Level Dataset for Long Video Generation,A,CVPR,2025,S,0.786,9,103
+MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation,A,SIGGRAPH,2025,S,0.7771,12,36
+Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models,A,ICLR,2024,S,0.7749,68,140
+PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation,A,NeurIPS,2025,S,0.7626,9,136
+Flow Caching for Autoregressive Video Generation,A,ICLR,2026,S,0.76,33,35
+LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis,A,CVPR,2025,S,0.7498,5,163
+HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives,A,CVPR,2026,S,0.7405,1,705
+RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space,A,ICML,2026,S,0.7156,2,51
+InsViE-1M: Effective Instruction-Based Video Editing with Elaborate Dataset Construction,A,ICCV,2025,S,0.7034,8,35
+Many-for-Many: Unify the Training of Multiple Video and Image Generation and Manipulation Tasks,A,ICLR,2026,S,0.7005,4,32
+Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance,A,NeurIPS,2025,S,0.7001,3,663
+Videoauteur: Towards Long Narrative Video Generation,A,ICCV,2025,S,0.6954,8,44
+"LoL: Longer than Longer, Scaling Video Generation to Hour",A,CVPR,2026,S,0.6942,5,1
+MotionCtrl: A Unified and Flexible Motion Controller for Video Generation,A,SIGGRAPH,2024,S,0.6941,152,
+SimDA: Simple Diffusion Adapter for Efficient Video Generation,A,CVPR,2024,S,0.693,34,128
+Mixture of Contexts for Long Video Generation,A,ICLR,2026,S,0.6926,10,
+ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models,A,CVPR,2024,S,0.6891,21,180
+COVE: Unleashing the Diffusion Feature Correspondence for Consistent Video Editing,A,NeurIPS,2024,S,0.6866,76,24
+Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control,A,SIGGRAPH,2025,S,0.6826,38,
+VideoPoet: A Large Language Model for Zero-Shot Video Generation,A,ICML,2024,S,0.6824,88,
+MotionEditor: Editing Video Motion via Content-Aware Diffusion,A,CVPR,2024,S,0.6653,21,186
+Show-o2: Improved Native Unified Multimodal Models,A,NeurIPS,2025,S,0.6652,22,
+AVID: Any-Length Video Inpainting with Diffusion Model,A,CVPR,2024,S,0.6637,25,177
+Controllable First-Frame-Guided Video Editing via Mask-Aware LoRA Fine-Tuning,A,ICLR,2026,S,0.6628,5,
+BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models,A,CVPR,2024,S,0.6589,14,77
+Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization,A,NeurIPS,2025,A,0.6571,15,25
+EasyAnimate: High-Performance Video Generation Framework with Hybrid Windows Attention and Reward Backpropagation,A,ACM MM,2025,A,0.6547,21,
+VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning,A,SIGGRAPH,2026,A,0.6529,2,67
+PanoWan: Lifting Diffusion Video Generation Models to 360° with Latitude/Longitude-aware Mechanisms,A,NeurIPS,2025,A,0.6492,4,57
+OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions,A,NeurIPS,2025,A,0.6481,3,489
+Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices,A,ICML,2024,A,0.643,41,57
+Long Context Tuning for Video Generation,A,ICCV,2025,A,0.6408,17,
+Motion Prompting: Controlling Video Generation with Motion Trajectories,A,CVPR,2025,A,0.6296,42,
+Make Pixels Dance: High-Dynamic Video Generation,A,CVPR,2024,A,0.629,59,
+Generative Video Motion Editing with 3D Point Tracks,A,CVPR,2026,A,0.6257,3,
+GenTron: Diffusion Transformers for Image and Video Generation,A,CVPR,2024,A,0.6239,48,
+FADE: Frequency-Aware Diffusion Model Factorization for Video Editing,A,CVPR,2025,A,0.6139,12,15
+AnimateAnything: Consistent and Controllable Animation for Video Generation,A,CVPR,2025,A,0.613,11,
+OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation,A,SIGGRAPH,2026,A,0.6123,1,129
+Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation,A,CVPR,2024,A,0.61,921,
+BulletTime: Decoupled Control of Time and Camera Pose for Video Generation,A,CVPR,2026,A,0.61,18,
+CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models,A,CVPR,2025,A,0.61,218,
+CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer,A,ICLR,2025,A,0.61,2162,
+Context Forcing: Consistent Autoregressive Video Generation with Long Context,A,ICML,2026,A,0.61,65,
+DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation,A,ICML,2026,A,0.61,23,
+DreamVideo: Composing Your Dream Videos with Customized Subject and Motion,A,CVPR,2024,A,0.61,225,
+EasyCreator: Empowering 4D Creation through Video Inpainting,A,ICLR,2026,A,0.61,47,
+FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing,A,CVPR,2026,A,0.61,31,
+FreeOrbit4D: Training-Free Arbitrary Camera Redirection for Monocular Videos via Foreground-Complete 4D Reconstruction,A,SIGGRAPH,2026,A,0.61,18,
+From Slow Bidirectional to Fast Autoregressive Video Diffusion Models,A,CVPR,2025,A,0.61,547,
+Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise,A,CVPR,2025,A,0.61,137,
+Goku: Flow Based Video Generative Foundation Models,A,CVPR,2025,A,0.61,83,
+Improving Video Generation with Human Feedback,A,NeurIPS,2025,A,0.61,332,
+LongLive: Real-time Interactive Long Video Generation,A,ICLR,2026,A,0.61,326,
+MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model,A,CVPR,2024,A,0.61,443,
+MotionClone: Training-Free Motion Cloning for Controllable Video Generation,A,ICLR,2025,A,0.61,109,
+MotionV2V: Editing Motion in a Video,A,CVPR,2026,A,0.61,13,
+One-Minute Video Generation with Test-Time Training,A,CVPR,2025,A,0.61,130,
+OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation,A,ICLR,2025,A,0.61,305,
+PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation,A,CVPR,2025,A,0.61,122,
+Pyramidal Flow Matching for Efficient Video Generative Modeling,A,ICLR,2025,A,0.61,426,
+SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer,A,ICLR,2026,A,0.61,117,
+Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset,A,CVPR,2026,A,0.61,75,
+Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion,A,NeurIPS,2025,A,0.61,785,
+Stable Video Infinity: Infinite-Length Video Generation with Error Recycling,A,ICLR,2026,A,0.61,76,
+"StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text",A,CVPR,2025,A,0.61,314,
+TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment,A,ICML,2026,A,0.61,15,
+Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model,A,CVPR,2025,A,0.61,334,
+Training-free Camera Control for Video Generation,A,ICLR,2025,A,0.61,117,
+UCM: Unified Modeling of Camera Control and Memory with Time-aware Positional Encoding Warping for World Models,A,SIGGRAPH,2026,A,0.61,18,
+Unified In-Context Video Editing,A,ICLR,2026,A,0.61,65,
+VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models,A,CVPR,2024,A,0.61,750,
+VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models,A,ICML,2025,A,0.61,124,
+VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control,A,SIGGRAPH,2025,A,0.61,98,
+Wonderland: Navigating 3D Scenes From a Single Image,A,CVPR,2025,A,0.61,136,
+Mind the Time: Temporally-Controlled Multi-Event Video Generation,A,CVPR,2025,A,0.603,46,
+RealCam-I2V: Real-World Image-to-Video Generation with Interactive Complex Camera Control,A,ICCV,2025,A,0.603,69,
+VideoDirector: Precise Video Editing via Text-to-Video Models,A,CVPR,2025,A,0.603,51,
+VideoGrain: Modulating Space-Time Attention for Multi-Grained Video Editing,A,ICLR,2025,A,0.603,61,
+FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance,A,CVPR,2026,A,0.6026,10,
+InstructVideo: Instructing Video Diffusion Models with Human Feedback,A,CVPR,2024,A,0.5983,115,
+VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models,A,CVPR,2024,A,0.5983,113,
+CameraCtrl: Enabling Camera Control for Video Diffusion Models,A,ICLR,2025,A,0.5961,40,
+VIVA: VLM-Guided Instruction-Based Video Editing with Reward Optimization,A,CVPR,2026,A,0.5957,3,
+EasyV2V: A High-quality Instruction-based Video Editing Framework,A,CVPR,2026,A,0.5951,8,
+EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing,A,CVPR,2026,A,0.5951,7,
+Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model,A,ICML,2026,A,0.5951,8,
+LIVEditor-14B: Lightning Unified Video Editing via In-Context Sparse Attention,A,ICML,2026,A,0.5951,6,
+Motion Attribution for Video Generation,A,ICML,2026,A,0.5951,7,
+Motion-Aware Caching for Efficient Autoregressive Video Generation,A,ICML,2026,A,0.5951,8,
+OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation,A,ICML,2026,A,0.5951,9,
+AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion,A,CVPR,2025,A,0.5921,9,
+Any-to-Bokeh: Arbitrary-Subject Video Refocusing with Video Diffusion Model,A,ICLR,2026,A,0.5891,1,145
+InterDyn: Controllable Interactive Dynamics with Video Diffusion Models,A,CVPR,2025,A,0.5891,37,
+Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion,A,SIGGRAPH,2024,A,0.5873,54,
+DVD-Quant: Data-free Video Diffusion Transformers Quantization,A,ICLR,2026,A,0.5861,2,0
+Scaling Laws for Diffusion Transformers,A,ICLR,2026,A,0.5861,2,0
+LAMP: Language-Assisted Motion Planning for Controllable Video Generation,A,CVPR,2026,A,0.5728,5,
+Transform Trained Transformer for Accelerating Native 4K Video Generation,A,ICML,2026,A,0.5728,5,
+V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties,A,CVPR,2026,A,0.5728,5,
+MV-S2V: Multi-View Subject-Consistent Video Generation,A,SIGGRAPH,2026,A,0.57,1,19
+VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control,A,ICLR,2025,A,0.5634,12,
+Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation,A,NeurIPS,2025,A,0.5621,9,
+Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search,A,NeurIPS,2025,A,0.5609,6,21
+FFP-300K: Scaling First-Frame Propagation for Generalizable Video Editing,A,CVPR,2026,A,0.5588,2,
+ReRoPE: Repurposing RoPE for Relative Camera Control,A,SIGGRAPH,2026,A,0.5588,2,
+TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models,A,CVPR,2024,A,0.5537,25,
+CamGeo: Sparse Camera-Conditioned Image-to-Video Generation with 3D Geometry Priors,A,ICML,2026,A,0.5505,4,
+Continuous Control of Editing Models via Adaptive-Origin Guidance,A,SIGGRAPH,2026,A,0.5505,4,
+TempoControl: Temporal Attention Guidance for Text-to-Video Models,A,CVPR,2026,A,0.5505,4,
+BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration,A,ICLR,2026,A,0.5485,0,339
+Learning World Models for Interactive Video Generation,A,NeurIPS,2025,A,0.5439,13,
+Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control,A,NeurIPS,2024,A,0.5437,10,42
+SketchVideo: Sketch-based Video Generation and Editing,A,CVPR,2025,A,0.5404,6,0
+GeoVideo: Introducing Geometric Regularization into Video Generation Model,A,NeurIPS,2025,A,0.5387,4,21
+Ctrl&Shift: High-Quality Geometry-Aware Object Manipulation in Visual Generation,A,ICLR,2026,A,0.5357,3,
+Go-with-the-Track: Video Compositing and Motion Control with Point Tracking,A,SIGGRAPH,2026,A,0.5357,3,
+Optical-Flow Guided Prompt Optimization for Coherent Video Generation,A,CVPR,2025,A,0.5346,7,5
+Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis,A,CVPR,2024,A,0.5288,42,
+AnyI2V: Animating Any Conditional Image with Motion Control,A,ICCV,2025,A,0.5275,2,123
+UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors,A,SIGGRAPH,2026,A,0.5212,0,259
+TokensGen: Harnessing Condensed Tokens for Long Video Generation,A,ICCV,2025,A,0.5172,2,58
+Video Diffusion Models are Training-free Motion Interpreter and Controller,A,NeurIPS,2024,A,0.5153,9,52
+MagicFight: Personalized Martial Arts Combat Video Generation,A,ACM MM,2024,A,0.5128,16,
+Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion,A,SIGGRAPH,2024,A,0.5128,16,
+VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation,A,ICCV,2025,A,0.5128,3,34
+Boximator: Generating Rich and Controllable Motions for Video Synthesis,A,ICML,2024,A,0.512,24,
+FullDiT: Video Generative Foundation Models with Multimodal Control via Full Attention,A,ICCV,2025,A,0.5117,8,0
+JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation,A,NeurIPS,2025,A,0.5077,3,77
+TempoMaster: Efficient Long Video Generation via Next-Frame-Rate Prediction,A,CVPR,2026,A,0.5059,1,10
+HOI-Swap: Swapping Objects in Videos with Hand-Object Interaction Awareness,A,NeurIPS,2024,A,0.5012,10,26
+FIND: Fine-tuning Initial Noise Distribution with Policy Optimization for Diffusion Models,A,ACM MM,2024,A,0.5003,9,178
+Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think,A,CVPR,2025,A,0.4933,4,24
+Grid Diffusion Models for Text-to-Video Generation,A,CVPR,2024,A,0.493,41,
+What Happens Next? Anticipating Future Motion by Generating Point Trajectories,A,ICLR,2026,A,0.4923,1,6
+Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model,A,NeurIPS,2024,A,0.4875,5,258
+Relit-LiVE: Relight Video by Jointly Learning Environment Video,A,SIGGRAPH,2026,A,0.4803,0,128
+ReVideo: Remake a Video with Motion and Content Control,A,NeurIPS,2024,A,0.4777,14,
+I2V3D: Controllable Image-to-Video Generation with 3D Guidance,A,ICCV,2025,A,0.4772,4,
+DisenStudio: Customized Multi-Subject Text-to-Video Generation with Disentangled Spatial Control,A,ACM MM,2024,A,0.475,10,12
+VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide,A,CVPR,2025,A,0.4708,8,
+AV-DiT: Taming Image Diffusion Transformers for Efficient Joint Audio and Video Generation,A,ACM MM,2025,A,0.4694,6,
+TAVGBench: Benchmarking Text to Audible-Video Generation,A,ACM MM,2024,A,0.4689,14,16
+EasyVFX: Frequency-Driven Decoupling for Resource-Efficient VFX Generation,A,SIGGRAPH,2026,A,0.4688,2,
+Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition,A,ICLR,2024,A,0.4678,9,56
+VideoMAR: Autoregressive Video Generation with Continuous Tokens,A,NeurIPS,2025,A,0.4534,7,
+MotionStone: Decoupled Motion Intensity Modulation with Diffusion Transformer for Image-to-Video Generation,A,CVPR,2025,A,0.452,5,
+Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking,A,NeurIPS,2025,A,0.4514,2,26
+OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation,A,NeurIPS,2024,A,0.4477,14,
+Lighting-grounded Video Generation with Renderer-based Agent Reasoning,A,CVPR,2026,A,0.4473,1,
+OSV: One Step is Enough for High-Quality Image to Video Generation,A,CVPR,2025,A,0.4472,4,
+Separate Motion from Appearance: Customizing Motion via Customizing Text-to-Video Diffusion Models,A,ACM MM,2025,A,0.4425,3,21
+VidSplat: Gaussian Splatting Reconstruction with Geometry-Guided Video Diffusion Priors,A,SIGGRAPH,2026,A,0.4394,0,54
+VIRES: Video Instance Repainting via Sketch and Text Guided Generation,A,CVPR,2025,A,0.4394,6,
+Video Analysis and Generation via a Semantic Progress Function,A,SIGGRAPH,2026,A,0.4366,0,77
+TV2TV: A Unified Framework for Interleaved Language and Video Generation,A,CVPR,2026,A,0.4173,1,
+Generative Omnimatte: Learning to Decompose Video into Layers,A,CVPR,2025,A,0.4172,4,
+Spatiotemporal Skip Guidance for Enhanced Video Diffusion Sampling,A,CVPR,2025,A,0.4172,4,
+Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation,A,CVPR,2026,A,0.4121,0,23
+InterAnimate: Taming Region-Aware Diffusion Model for Realistic Human Interaction Animation,A,ACM MM,2025,B,0.4111,3,
+Sketch3DVE: Sketch-based 3D-Aware Scene Video Editing,A,SIGGRAPH,2025,B,0.4111,3,
+Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation,A,ACM MM,2025,B,0.4111,3,
+Towards Precise Scaling Laws for Video Diffusion Transformers,A,CVPR,2025,A,0.4111,3,
+In-Context Generation with Regional Constraints for Instructional Video Editing,A,ICML,2026,B,0.4107,0,180
+Frame In-N-Out: Unbounded Controllable Image-to-Video Generation,A,NeurIPS,2025,B,0.4097,2,34
+LeMiCa: Lexicographic Minimax Path Caching for Efficient Diffusion-Based Video Generation,A,NeurIPS,2025,B,0.4083,1,123
+AnimeColor: Reference-based Animation Colorization with Diffusion Transformers,A,ACM MM,2025,B,0.4075,2,9
+Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curation,A,CVPR,2025,B,0.3982,4,0
+Fast and Memory-Efficient Video Diffusion Using Streamlined Inference,A,NeurIPS,2024,B,0.3951,7,17
+Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model,A,ICLR,2025,B,0.3756,0,474
+IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation,A,NeurIPS,2025,B,0.3734,0,111
+DFSAttn: Dynamic Fine-grained Sparse Attention for Efficient Video Generation,A,ICML,2026,B,0.3712,0,15
+Vivid-ZOO: Multi-View Video Generation with Diffusion Model,A,NeurIPS,2024,B,0.3584,12,
+FRAG: Frequency Adapting Group for Diffusion Video Editing,A,ICML,2024,B,0.3574,4,70
+"LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",A,SIGGRAPH,2026,B,0.3573,1,
+MotiMotion: Motion-Controlled Video Generation with Visual Reasoning,A,ICML,2026,B,0.3573,1,
+OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory,A,CVPR,2026,B,0.3573,1,
+PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models,A,CVPR,2026,B,0.3573,1,
+RFDM: Residual Flow Diffusion Models for Video Editing,A,CVPR,2026,B,0.3573,1,
+RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models,A,CVPR,2024,B,0.3534,0,313
+VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors,A,CVPR,2025,B,0.3511,3,
+Audio-Sync Video Generation with Multi-Stream Temporal Control,A,NeurIPS,2025,B,0.338,2,
+STDD: Spatio-Temporal Dual Diffusion for Video Generation,A,CVPR,2025,B,0.338,2,
+Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation,A,NeurIPS,2024,B,0.3348,3,71
+DissolveStereo: Coarse Depth Injection for Zero-Shot Stereo Video Generation,A,SIGGRAPH,2026,B,0.3316,0,19
+Rethinking Global Text Conditioning in Diffusion Transformers,A,ICLR,2026,B,0.3289,0,38
+Fairy: Fast Parallelized Instruction-Guided Video-to-Video Synthesis,A,CVPR,2024,B,0.3248,8,
+MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation,A,NeurIPS,2025,B,0.3229,0,31
+Generative Pre-trained Autoregressive Diffusion Transformer,A,NeurIPS,2025,B,0.3211,3,
+REGen: Multimodal Retrieval-Embedded Generation for Long-to-Short Video Editing,A,NeurIPS,2025,B,0.3211,3,
+WorldWeaver: Generating Long-Horizon Video Worlds via Rich Perception,A,NeurIPS,2025,B,0.319,1,4
+"EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation",A,CVPR,2025,B,0.3102,2,6
+FlowMo: Variance-Based Flow Guidance for Coherent Motion in Video Generation,A,NeurIPS,2025,B,0.308,2,
+ReToMe-VA: Recursive Token Merging for Video Diffusion-based Unrestricted Adversarial Attack,A,ACM MM,2024,B,0.2999,4,14
+Motionagent: Fine-Grained Controllable Video Generation via Motion Field Agent,A,ICCV,2025,B,0.2992,2,5
+MM-LDM: Multi-Modal Latent Diffusion Model for Sounding Video Generation,A,ACM MM,2024,B,0.2963,5,
+Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models,A,NeurIPS,2024,B,0.2963,5,
+Gloria: Consistent Character Video Generation via Content Anchors,A,CVPR,2026,B,0.2962,0,0
+T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback,A,NeurIPS,2024,B,0.294,9,
+Instant Video Models: Universal Adapters for Stabilizing Image-Based Networks,A,NeurIPS,2025,B,0.279,0,12
+Aligning What Matters: Masked Latent Adaptation for Text-to-Audio-Video Generation,A,NeurIPS,2025,B,0.278,2,
+QVD: Post-training Quantization for Video Diffusion Models,A,ACM MM,2024,B,0.2776,7,0
+ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation,A,CVPR,2026,B,0.2689,0,
+CoT-Edit: Let CoT Guide Instruction Video Editing,A,CVPR,2026,B,0.2689,0,
+DreamSwapV: Mask-guided Subject Swapping for Any Customized Video Editing,A,ICLR,2026,B,0.2689,0,
+LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation,A,ICLR,2026,B,0.2689,0,
+HECTOR: Hybrid Editable Compositional Object References for Video Generation,A,ICML,2026,B,0.2662,0,0
+DisMo: Disentangled Motion Representations for Open-World Motion Transfer,A,NeurIPS,2025,B,0.2659,0,36
+Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models,A,ACM MM,2024,B,0.2648,8,
+ActAnywhere: Subject-Aware Video Background Generation,A,NeurIPS,2024,B,0.2612,4,
+A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing,A,CVPR,2024,B,0.2534,0,96
+FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute,A,CVPR,2025,B,0.2488,1,
+LoCoT2V-Bench: Benchmarking Long-Form and Complex Text-to-Video Generation,A,ICML,2026,B,0.2471,0,5
+MoTrans: Customized Motion Transfer with Text-driven Video Diffusion Models,A,ACM MM,2024,B,0.2414,7,
+ArtiFixer: Enhancing and Extending 3D Reconstruction with Auto-Regressive Diffusion Models,A,SIGGRAPH,2026,B,0.2389,0,
+Image as a World: Generating Interactive World from Single Image via Panoramic Video Generation,A,NeurIPS,2025,B,0.2315,0,3
+Probabilistic Forecasting with Stochastic Interpolants and Föllmer Processes,A,ICML,2024,B,0.2261,3,
+Temporal In‑Context Fine‑Tuning with Temporal Reasoning for Versatile Control of Video Diffusion Models,A,NeurIPS,2025,B,0.2188,1,
+Towards Physical Understanding in Video Generation: A 3D Point Regularization Approach,A,NeurIPS,2025,B,0.2188,1,
+Refaçade: Editing Object with Given Reference Texture,A,CVPR,2026,B,0.2089,0,
+MiVE: Multiscale Vision-language features for reference-guided video Editing,A,ICML,2026,B,0.2062,0,0
+S2-Edit3DV: Diffusion-Guided Style Meets Structure for Consistent Multi-View 3D Video Generation,A,ACM MM,2025,B,0.2022,0,
+Text Prompted Spatiotemporal Sequence Prediction with Text-Vision Prompt Refiner and Masked Diffusion Transformers,A,ACM MM,2025,B,0.2022,0,
+UniTransfer: Video Concept Transfer via Progressive Spatio-Temporal Decomposition,A,NeurIPS,2025,B,0.2022,0,
+VaporTok: RL-Driven Adaptive Video Tokenizer with Prior & Task Awareness,A,NeurIPS,2025,B,0.2022,0,
+VividFace: A Robost and High-Fidelity Video Face Swapping Framework,A,NeurIPS,2025,B,0.2022,0,
+Zero-Shot Controllable Image-to-Video Animation via Motion Decomposition,A,ACM MM,2024,B,0.1973,3,3
+FVGen: Accelerating Novel-View Synthesis with Adversarial Video Diffusion Distillation,A,ICCV,2025,B,0.1934,0,5
+DIVE: Taming DINO for Subject-Driven Video Editing,A,ICCV,2025,B,0.1888,1,
+STIV: Scalable Text and Image Conditioned Video Generation,A,ICCV,2025,B,0.1888,1,
+SUV: Suppressing Undesired Video Content via Semantic Modulation Based on Text Embeddings,A,ICCV,2025,B,0.1888,1,
+Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image,A,NeurIPS,2025,B,0.1888,1,
+Pathways on the Image Manifold: Image Editing via Video Generation,A,CVPR,2025,B,0.1854,0,10
+COMD: Training-free Video Motion Transfer With Camera-Object Motion Disentanglement,A,ACM MM,2024,B,0.1851,1,
+3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation,A,ICLR,2026,B,0.1789,0,
+Anchor Frame Bridging for Coherent First-Last Frame Video Generation,A,ICLR,2026,B,0.1789,0,
+LayerT2V: A Unified Multi-Layer Video Generation Framework,A,ICML,2026,B,0.1789,0,
+MAGREF: Masked Guidance for Any-Reference Video Generation with Subject Disentanglement,A,ICLR,2026,B,0.1789,0,
+MoCa: Modeling Object Consistency for 3D Camera Control in Video Generation,A,ICLR,2026,B,0.1789,0,
+MotionStream: Real-Time Video Generation with Interactive Motion Controls,A,ICLR,2026,B,0.1789,0,
+MusicInfuser: Making Video Diffusion Listen and Dance,A,CVPR,2026,B,0.1789,0,
+RecEdit-Drive: 3D Reconstruction-Guided Spatiotemporal Video Editing for Autonomous Driving Scenes,A,CVPR,2026,B,0.1789,0,
+STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits,A,ICML,2026,B,0.1789,0,
+Target-Aware Video Diffusion Models,A,ICLR,2026,B,0.1789,0,
+Video-As-Prompt: Unified Semantic Control for Video Generation,A,ICLR,2026,B,0.1789,0,
+LaVieID: Local Autoregressive Diffusion Transformers for Identity-Preserving Video Creation,A,ACM MM,2025,B,0.1722,0,
+VersVideo: Leveraging Enhanced Temporal Diffusion Models for Versatile Video Generation,A,ICLR,2024,B,0.1712,4,
+HeroMaker: Human-centric Video Editing with Motion Priors,A,ACM MM,2024,B,0.1459,0,12
+Look Beyond: Two-Stage Scene View Generation via Panorama and Video Diffusion,A,ACM MM,2025,B,0.1415,0,3
+DiffPerformer: Iterative Learning of Consistent Latent Guidance for Diffusion-Based Human Video Generation,A,CVPR,2024,B,0.1361,3,
+SNED: Superposition Network Architecture Search for Efficient Video Diffusion Model,A,CVPR,2024,B,0.1251,1,
+Sequential Disentanglement by Extracting Static Information From A Single Sequence Element,A,ICML,2024,B,0.1139,1,2
+AICL: Action In-Context Learning for Text-to-Video Generation,A,ACM MM,2025,B,0.1122,0,
+Stable Cinemetrics : Structured Taxonomy and Evaluation for Professional Video Generation,A,NeurIPS,2025,B,0.1122,0,
+RefDrop: Controllable Consistency in Image or Video Generation via Reference Feature Guidance,A,NeurIPS,2024,B,0.0951,1,
+Motus: A Unified Latent Action World Model,B,CVPR,2026,S,0.9651,248,1316
+"TD-MPC2: Scalable, Robust World Models for Continuous Control",B,ICLR,2024,S,0.9588,250,999
+DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning,B,ICML,2025,S,0.9454,263,627
+End-to-End Driving with Online Trajectory Evaluation via BEV World Model,B,ICCV,2025,S,0.9387,114,276
+AETHER: Geometric-Aware Unified World Modeling,B,ICCV,2025,S,0.9161,66,617
+Ctrl-World: A Controllable Generative World Model for Robot Manipulation,B,ICLR,2026,S,0.9071,147,583
+Unified Vision-Language-Action Model,B,ICLR,2026,S,0.8606,132,322
+PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation,B,CVPR,2026,S,0.8605,85,571
+DreamDojo: A Real-Time Robot World Model from Large-Scale Human Videos,B,ICML,2026,S,0.8519,172,1132
+Driving Into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving,B,CVPR,2024,S,0.8516,195,440
+IRASim: A Fine-Grained World Model for Robot Manipulation,B,ICCV,2025,S,0.847,110,167
+Generalized Predictive Model for Autonomous Driving,B,CVPR,2024,S,0.8207,83,809
+Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation,B,ICLR,2026,S,0.817,136,592
+VideoWorld: Exploring Knowledge Learning from Unlabeled Videos,B,CVPR,2025,S,0.7992,29,809
+Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability,B,NeurIPS,2024,S,0.7946,168,910
+World4Drive: End-to-End Autonomous Driving via Intention-Aware Physical Latent World Model,B,ICCV,2025,S,0.7935,57,114
+MindJourney: Test-Time Scaling with World Models for Spatial Reasoning,B,NeurIPS,2025,S,0.7826,38,156
+RoboDreamer: Learning Compositional World Models for Robot Imagination,B,ICML,2024,S,0.7649,169,102
+Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models,B,NeurIPS,2025,S,0.756,62,83
+World Guidance: World Modeling in Condition Space for Action Generation,B,ICML,2026,S,0.756,41,176
+NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments,B,ICCV,2025,S,0.7382,73,97
+Vid2World: Crafting Video Diffusion Models to Interactive World Models,B,ICLR,2026,S,0.7334,65,78
+World-In-World: World Models in a Closed-Loop World,B,ICLR,2026,S,0.7258,34,215
+ReSim: Reliable World Simulation for Autonomous Driving,B,NeurIPS,2025,S,0.7184,36,193
+Causal-JEPA: Learning World Models through Object-Level Latent Masking,B,ICML,2026,S,0.7123,45,263
+Learning to Model the World With Language,B,ICML,2024,S,0.7022,46,421
+COMBO: Compositional World Models for Embodied Multi-Agent Cooperation,B,ICLR,2025,S,0.6943,48,53
+Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning,B,ICLR,2026,A,0.6941,331,0
+FLIP: Flow-Centric Generative Planning as General-Purpose Manipulation World Model,B,ICLR,2025,A,0.6932,25,84
+Learning Interactive Real-World Simulators,B,ICLR,2024,A,0.6919,344,0
+GenEx: Generating an Explorable World,B,ICLR,2025,A,0.6898,24,173
+Genie: Generative Interactive Environments,B,ICML,2024,A,0.6676,250,0
+WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World,B,CVPR,2026,A,0.6539,28,258
+ORV: 4D Occupancy-centric Robot Video Generation,B,CVPR,2026,A,0.6513,16,115
+WorldSimBench: Towards Video Generation Models as World Simulators,B,ICML,2025,A,0.629,95,0
+iVideoGPT: Interactive VideoGPTs are Scalable World Models,B,NeurIPS,2024,A,0.6269,55,189
+3D-VLA: A 3D Vision-Language-Action Generative World Model,B,ICML,2024,A,0.61,437,
+Diffusion for World Modeling: Visual Details Matter in Atari,B,NeurIPS,2024,A,0.61,428,
+Diffusion Models Are Real-Time Game Engines,B,ICLR,2025,A,0.61,384,
+Latent Action Pretraining from Videos,B,ICLR,2025,A,0.61,312,
+Navigation World Models,B,CVPR,2025,A,0.61,403,
+DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation,B,CVPR,2025,A,0.5983,154,
+DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers,B,ICCV,2025,A,0.5983,136,
+ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning,B,NeurIPS,2025,A,0.5983,189,
+UniGoal: Towards Universal Zero-shot Goal-oriented Navigation,B,CVPR,2025,A,0.5983,130,
+DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation,B,CVPR,2025,A,0.595,27,77
+Learning to Act without Actions,B,ICLR,2024,A,0.5931,50,149
+RoboScape: Physics-informed Embodied World Model,B,NeurIPS,2025,A,0.589,64,27
+Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion,B,ICLR,2024,A,0.5875,68,0
+WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling,B,ICML,2026,A,0.5866,182,
+DriveWorld-VLA: Unified Latent-Space World Modeling with Vision–Language–Action for Autonomous Driving,B,ICML,2026,A,0.5846,20,128
+R2-Dreamer: Redundancy-Reduced World Models without Decoders or Augmentation,B,ICLR,2026,A,0.584,14,200
+One Model for All Tasks: Leveraging Efficient World Models in Multi-Task Planning,B,ICLR,2026,A,0.5839,5,1660
+Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving,B,ICLR,2025,A,0.5722,17,59
+Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation,B,ICLR,2025,A,0.5698,62,0
+From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction,B,NeurIPS,2025,A,0.5497,17,81
+Mastering Memory Tasks with World Models,B,ICLR,2024,A,0.5435,24,83
+Whole-Body Conditioned Egocentric Video Prediction,B,NeurIPS,2025,A,0.542,26,0
+HarmonyDream: Task Harmonization Inside World Models,B,ICML,2024,A,0.5316,14,57
+DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving,B,ICLR,2026,A,0.5303,18,0
+DriveWorld: 4D Pre-Trained Scene Understanding via World Models for Autonomous Driving,B,CVPR,2024,A,0.5301,59,0
+COME: Adding Scene-Centric Forecasting Control to Occupancy World Model,B,NeurIPS,2025,A,0.5238,14,49
+iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework,B,ICML,2026,A,0.5236,13,22
+Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling,B,ICLR,2026,A,0.5221,8,146
+Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory,B,ICML,2026,A,0.5164,54,
+Pre-Trained Video Generative Models as World Simulators,B,AAAI,2026,A,0.5164,55,
+VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model,B,ICML,2026,A,0.5164,56,
+Learning Latent Action World Models in the Wild,B,ICML,2026,A,0.5105,47,0
+Parallel Stochastic Gradient-Based Planning for World Models,B,ICML,2026,A,0.5055,11,37
+WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving,B,AAAI,2026,A,0.5011,15,0
+Learning 3D Persistent Embodied World Models,B,NeurIPS,2025,A,0.4945,25,0
+DriveLaW: Unifying Planning and Video Generation in a Latent Driving World,B,CVPR,2026,A,0.4937,33,0
+VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation,B,NeurIPS,2024,A,0.4725,63,0
+Learning Transformer-based World Models with Contrastive Predictive Coding,B,ICLR,2025,A,0.4713,14,60
+Beyond Pixel Histories: World Models with Persistent 3D State,B,ICML,2026,A,0.4674,11,129
+Olaf-World: Orienting Latent Actions for Video World Modeling,B,ICML,2026,A,0.4674,11,129
+SOLD: Slot Object-Centric Latent Dynamics Models for Relational Manipulation Learning from Pixels,B,ICML,2025,A,0.4661,24,23
+Chain of World: World Model Thinking in Latent Motion,B,CVPR,2026,A,0.4578,10,68
+"WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment",B,NeurIPS,2024,A,0.4563,62,0
+AdaWM: Adaptive World Model based Planning for Autonomous Driving,B,ICLR,2025,A,0.4535,18,0
+Learning Hierarchical World Models with Adaptive Temporal Abstractions from Discrete Latent Dynamics,B,ICLR,2024,A,0.4482,24,40
+Astra: General Interactive World Model with Autoregressive Denoising,B,ICLR,2026,A,0.4462,24,
+LIVE: Long-horizon Interactive Video World Modeling,B,ICML,2026,A,0.4462,24,
+Dexterous World Models,B,CVPR,2026,A,0.436,13,0
+R-WoM: Retrieval-augmented World Model For Computer-use Agents,B,ICLR,2026,A,0.436,13,0
+Flow Equivariant World Models: Structured Memory for Dynamic Environments,B,ICML,2026,A,0.4345,17,
+MVISTA-4D: View-Consistent 4D World Model with Test-Time Action Inference for Robotic Manipulation,B,ICML,2026,A,0.4345,17,
+Dyn-O: Building Structured World Models with Object-Centric Representations,B,NeurIPS,2025,A,0.425,12,0
+SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration,B,NeurIPS,2025,A,0.4212,9,30
+GenRL: Multimodal-foundation world models for generalization in embodied agents,B,NeurIPS,2024,A,0.4203,10,87
+Learning Latent Dynamic Robust Representations for World Models,B,ICML,2024,A,0.4201,13,27
+Benchmarking World-Model Learning with Environment-Level Queries,B,ICML,2026,A,0.4111,15,0
+DeepSight: Long-Horizon World Modeling via Latent States Prediction for End-to-End Autonomous Driving,B,ICML,2026,A,0.4062,5,31
+StateSpaceDiffuser: Bringing Long Context to Diffusion World Models,B,NeurIPS,2025,A,0.3994,21,
+VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models,B,ICML,2026,A,0.3933,13,7
+ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning,B,ICLR,2026,A,0.3924,11,26
+Learning 4D Embodied World Models,B,ICCV,2025,A,0.384,8,0
+InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction,B,NeurIPS,2024,A,0.3754,42,0
+PlaySlot: Learning Inverse Latent Dynamics for Controllable Object-Centric Video Prediction and Planning,B,ICML,2025,A,0.3724,9,23
+Learning and Planning Multi-Agent Tasks via an MoE-based World Model,B,NeurIPS,2025,B,0.3705,4,35
+Factored Latent Action World Models,B,ICML,2026,B,0.3665,9,0
+Towards foundational LiDAR world models with efficient latent flow matching,B,NeurIPS,2025,B,0.3526,14,
+Revisiting Multi-Agent World Modeling from a Diffusion-Inspired Perspective,B,NeurIPS,2025,B,0.3493,5,19
+Co-Evolving Latent Action World Models,B,ICML,2026,B,0.3467,12,0
+One Life to Learn: Inferring Symbolic World Models for Stochastic Environments from Unguided Exploration,B,ICLR,2026,B,0.3467,12,
+Learning Interactive World Model for Object-Centric Reinforcement Learning,B,NeurIPS,2025,B,0.3431,5,0
+Social World Model-Augmented Mechanism Design Policy Learning,B,NeurIPS,2025,B,0.3431,5,0
+DMWM: Dual-Mind World Model with Long-Term Imagination,B,NeurIPS,2025,B,0.3409,13,
+Learning World Models for Interactive Video Generation,B,NeurIPS,2025,B,0.3409,13,
+AdaWorld: Learning Adaptable World Models with Latent Actions,B,ICML,2025,B,0.3389,0,264
+G-Sim: Generative Simulations with Large Language Models and Gradient-Free Calibration,B,ICML,2025,B,0.3365,6,0
+Input-to-State Stable Coupled Oscillator Networks for Closed-form Model-based Control in Latent Space,B,NeurIPS,2024,B,0.3321,10,9
+Do Transformer World Models Give Better Policy Gradients?,B,ICML,2024,B,0.3269,14,
+Trajectory World Models for Heterogeneous Environments,B,ICML,2025,B,0.2948,7,20
+ReCoRe: Regularized Contrastive Representation Learning of World Model,B,CVPR,2024,B,0.2946,12,0
+Continual Reinforcement Learning by Planning with Online World Models,B,ICML,2025,B,0.294,8,0
+Time-Aware World Model for Adaptive Prediction and Control,B,ICML,2025,B,0.294,8,15
+Towards Practical World Model-based Reinforcement Learning for Vision-Language-Action Models,B,ICML,2026,B,0.2882,10,
+DDP-WM: Disentangled Dynamics Prediction for Efficient World Models,B,ICML,2026,B,0.2874,5,22
+Accurate and Efficient World Modeling with Masked Latent Transformers,B,ICML,2025,B,0.2823,7,
+Gaussian-based World Model: Gaussian Priors for Voxel-Based Occupancy Prediction and Future Motion Prediction,B,ICCV,2025,B,0.2823,7,
+Precise Action-to-Video Generation Through Visual Action Prompts,B,ICCV,2025,B,0.2787,2,0
+SAMPO: Scale-wise Autoregression with Motion Prompt for Generative World Models,B,NeurIPS,2025,B,0.278,4,0
+GeoWorld: Geometric World Models,B,CVPR,2026,B,0.2765,9,
+Reflect-then-Plan: Offline Model-Based Planning through a Doubly Bayesian Lens,B,ICML,2025,B,0.2765,6,
+DyMoDreamer: World Modeling with Dynamic Modulation,B,NeurIPS,2025,B,0.2531,5,
+AD3: Implicit Action is the Key for World Models to Distinguish the Diverse Visual Distractors,B,ICML,2024,B,0.2494,7,0
+Image as a World: Generating Interactive World from Single Image via Panoramic Video Generation,B,NeurIPS,2025,B,0.2436,1,0
+PoE-World: Compositional World Modeling with Products of Programmatic Experts,B,NeurIPS,2025,B,0.2436,1,0
+Learning to Navigate Efficiently and Precisely in Real Environments,B,CVPR,2024,B,0.2379,9,0
+Simplifying Latent Dynamics with Softly State-Invariant World Models,B,NeurIPS,2024,B,0.2379,9,0
+Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model,B,CVPR,2026,B,0.2297,5,0
+Structured 4D Latent Predictive Model for Robot Planning,B,ICML,2026,B,0.2297,5,
+Unlocking Efficient Vehicle Dynamics Modeling via Analytic World Models,B,AAAI,2026,B,0.2297,5,0
+Object-Centric World Models for Causality-Aware Reinforcement Learning,B,AAAI,2026,B,0.2246,3,0
+Dynamics-Aligned Latent Imagination in Contextual World Models for Zero-Shot Generalization,B,NeurIPS,2025,B,0.218,4,0
+Learning Disentangled Multi-Agent World Model for Decentralized Control,B,ICML,2026,B,0.2174,2,17
+Locality Sensitive Sparse Encoding for Learning World Models Online,B,ICLR,2024,B,0.2147,5,0
+Hieros: Hierarchical Imagination on Structured State Space Sequence World Models,B,ICML,2024,B,0.2137,8,0
+Neural Motion Simulator Pushing the Limit of World Models in Reinforcement Learning,B,CVPR,2025,B,0.2136,1,0
+WorldAgen: Unified State-Action Prediction with Test-Time World Model Training,B,AAAI,2026,B,0.2019,1,0
+Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination,B,ICML,2026,B,0.1946,3,
+Physical Object Understanding with a Physically Controllable World Model,B,CVPR,2026,B,0.1946,3,
+Learning 3D Particle-based Simulators from RGB-D Videos,B,ICLR,2024,B,0.1894,7,0
+MetaKoopman: Bayesian Meta-Learning of Koopman Operators for Modeling Structured Dynamics under Distribution Shifts,B,NeurIPS,2025,B,0.1887,2,
+Reward-free World Models for Online Imitation Learning,B,ICML,2025,B,0.1887,2,0
+Zero-Shot Offline Imitation Learning via Optimal Transport,B,ICML,2025,B,0.1887,2,11
+Curious Causality-Seeking Agents in Open-ended Worlds,B,NeurIPS,2025,B,0.1851,0,0
+Efficient Dynamics Modeling in Interactive Environments with Koopman Theory,B,ICLR,2024,B,0.1847,5,0
+Acting Beyond Learning: Imagination-Assisted Decision-Making in the Visual-based Multi-Agent Cooperative Scenarios,B,AAAI,2025,B,0.1836,1,0
+Cloning Deterministic Worlds: The Critical Role of Latent Geometry in Long-Horizon World Models,B,CVPR,2026,B,0.177,2,0
+Learning World Models for Unconstrained Goal Navigation,B,NeurIPS,2024,B,0.1688,5,8
+Predicting Future Actions of Reinforcement Learning Agents,B,NeurIPS,2024,B,0.1651,6,0
+Discrete Codebook World Models for Continuous Control,B,ICLR,2025,B,0.1576,0,35
+Efficient Exploration and Discriminative World Model Learning with an Object-Centric Abstraction,B,ICLR,2025,B,0.1551,0,0
+Mixture-of-World Models: Scaling Multi-Task Reinforcement Learning with Modular Latent Dynamics,B,ICLR,2026,B,0.1485,0,
+Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion,B,ICML,2026,B,0.1419,1,0
+HandWorld: Hand-Centric Unified Video Action Generation,B,CVPR,2026,B,0.1419,1,0
+Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling,B,ICML,2026,B,0.1419,1,0
+Self-supervised Hierarchical Visual Reasoning with World Model,B,ICML,2026,B,0.1419,1,
+Beyond Single-Speed Reasoning: Coordinating Fast and Slow Dynamics for Efficient World Modeling,B,AAAI,2026,B,0.125,0,2
+Grounded Answers for Multi-agent Decision-making Problem through Generative World Model,B,NeurIPS,2024,B,0.1247,5,0
+Local Motion Matters: A Deconstruct–Recompose Paradigm for Reinforcement Learning Pre-training from Videos,B,CVPR,2026,B,0.1193,0,0
+Learning to Theorize the World from Observation,B,ICML,2026,B,0.1181,0,9
+Identifiable Token Correspondence for World Models,B,ICML,2026,B,0.1066,0,7
+Cross-Embodiment Robot Foundation World Models with Latent Actions,B,ICML,2026,B,0.1008,0,5
+Empowering World Models with Reflection for Embodied Video Prediction,B,ICML,2025,B,0.0951,0,
+General agents need world models,B,ICML,2025,B,0.0951,0,0
+Learning View-invariant World Models for Visual Robotic Manipulation,B,ICLR,2025,B,0.0951,0,
+Zero-shot World Models via Search in Memory,B,NeurIPS,2025,B,0.0951,0,0
+Learning Causal Dynamics Models in Object-Oriented Environments,B,ICML,2024,B,0.0946,3,2
+CLaD: Planning with Grounded Foresight via Cross-Modal Latent Dynamics,B,CVPR,2026,B,0.0893,0,
+Learning to Be Uncertain: Pre-training World Models with Horizon-Calibrated Uncertainty,B,ICLR,2026,B,0.0893,0,0
+ModularAgent: A Task-Aware Modular Framework for Joint Optimization of Multimodal Large Language Models and World Models,B,CVPR,2026,B,0.0893,0,0
+Multi-view Consistent Latent Action Learning for World Modeling and Control,B,ICML,2026,B,0.0893,0,
+WorldGym: World Model as An Environment for Policy Evaluation,B,ICLR,2026,B,0.0893,0,
+Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity,B,NeurIPS,2024,B,0.0843,4,0
+OctoTools: A Multi-Agent Framework with Extensible Tools for Complex Reasoning,C,ACL,2026,S,0.9896,28,1497
+ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs,C,ICLR,2024,S,0.9798,478,5768
+"Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory",C,ICLR,2026,S,0.9696,21,1474
+Search-o1: Agentic Search-Enhanced Large Reasoning Models,C,EMNLP,2025,S,0.9692,149,1253
+WebDancer: Towards Autonomous Information Seeking Agency,C,NeurIPS,2025,S,0.9581,43,20099
+What Deserves Memory: Adaptive Memory Distillation for LLM Agents,C,ACL,2026,S,0.9404,17,220
+LongVideoAgent: Multi-Agent Reasoning with Long Videos,C,ACL,2026,S,0.9246,21,133
+AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors,C,ICLR,2024,S,0.9131,209,5168
+Multi-Agent Collaboration via Evolving Orchestration,C,NeurIPS,2025,S,0.91,176,34762
+Scaling Large Language Model-based Multi-Agent Collaboration,C,ICLR,2025,S,0.91,296,34762
+In-the-Flow Agentic System Optimization for Effective Planning and Tool Use,C,ICLR,2026,S,0.9057,65,2091
+SimpleMem: Efficient Lifelong Memory for LLM Agents,C,ICML,2026,S,0.9057,177,3880
+MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers,C,ICLR,2026,S,0.8886,109,515
+ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory,C,ICLR,2026,S,0.8886,342,645
+CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents,C,ACL,2026,S,0.8864,34,36
+AgentBench: Evaluating LLMs as Agents,C,ICLR,2024,S,0.8814,1647,3826
+A-Mem: Agentic Memory for LLM Agents,C,NeurIPS,2025,S,0.8751,1138,1015
+AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?,C,ICLR,2026,S,0.8686,13,112
+SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning,C,NeurIPS,2025,S,0.8635,49,1347
+LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory,C,ICLR,2025,S,0.8594,73,1199
+WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning,C,ICLR,2025,S,0.8576,31,540
+Memory OS of AI Agent,C,EMNLP,2025,S,0.8542,43,1620
+LLM Collaboration with Multi-Agent Reinforcement Learning,C,AAAI,2026,S,0.8493,9,236
+InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews,C,ACL,2024,S,0.8464,81,2124
+MemoryBank: Enhancing Large Language Models with Long-Term Memory,C,AAAI,2024,S,0.8364,322,458
+G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems,C,NeurIPS,2025,S,0.8274,108,286
+TravelPlanner: A Benchmark for Real-World Planning with Language Agents,C,ICML,2024,S,0.8267,376,569
+Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents,C,ACL,2026,S,0.8225,10,59
+SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents,C,NeurIPS,2025,S,0.821,73,291
+ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering,C,ICML,2026,S,0.8143,7,77
+MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation,C,ICML,2024,S,0.8124,464,360
+JudgeBench: A Benchmark for Evaluating LLM-based Judges,C,ICLR,2025,S,0.8088,281,134
+Beyond a Million Tokens: Benchmarking and Enhancing Long-Term Memory in LLMs,C,ICLR,2026,S,0.8082,8,171
+HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model,C,ACL,2025,S,0.7924,35,82
+GUICourse: From General Vision Language Model to Versatile GUI Agent,C,ACL,2025,S,0.7913,25,144
+CoAct-1: Computer-using Multi-agent System with Coding Actions,C,ICLR,2026,S,0.7807,9,29
+EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records,C,EMNLP,2024,S,0.7786,114,144
+ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents,C,ICLR,2026,S,0.7761,26,31
+ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration,C,ICML,2026,S,0.7739,4,770
+Building Cooperative Embodied Agents Modularly with Large Language Models,C,ICLR,2024,S,0.7719,303,318
+CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards,C,ICLR,2026,S,0.7714,7,59
+Executable Code Actions Elicit Better LLM Agents,C,ICML,2024,S,0.7683,86,1716
+Advancing LLM Reasoning with Natural Language and Numerical Feedback,C,ICML,2026,S,0.7604,6,76
+MasRouter: Learning to Route LLMs for Multi-Agent Systems,C,ACL,2025,S,0.7594,32,148
+Beyond ReAct: A Planner-Centric Framework for Complex Tool-Augmented LLM Reasoning,C,AAAI,2026,S,0.7464,13,19
+OpenCUA: Open Foundations for Computer-Use Agents,C,NeurIPS,2025,A,0.7462,13,874
+ContextAgent: Context-Aware Proactive LLM Agents with Open-world Sensory Perceptions,C,NeurIPS,2025,A,0.7437,82,59
+On Information Self-Locking in Reinforcement Learning for Active Reasoning of LLM agents,C,ICML,2026,A,0.7307,7,84
+PlanGenLLMs: A Modern Survey of LLM Planning Capabilities,C,ACL,2025,A,0.7228,101,39
+Unveiling Privacy Risks in LLM Agent Memory,C,ACL,2025,A,0.7228,79,37
+GraphPlanner: Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs,C,ICLR,2026,A,0.7214,11,24
+LLM Agents Making Agent Tools,C,ACL,2025,A,0.7123,41,85
+G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems,C,ACL,2025,A,0.7087,23,50
+SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement,C,ICLR,2025,A,0.7071,26,143
+Agent-Oriented Planning in Multi-Agent Systems,C,ICLR,2025,A,0.703,59,27
+AUTOGEN STUDIO: A No-Code Developer Tool for Building and Debugging Multi-Agent Systems,C,EMNLP,2024,A,0.7005,46,61879
+TreeRL: LLM Reinforcement Learning with On-Policy Tree Search,C,ACL,2025,A,0.6994,13,107
+Efficient Agent Training for Computer Use,C,ICLR,2026,A,0.6989,2,145
+ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data,C,ICLR,2026,A,0.6907,3,1153
+AutoAct: Automatic Agent Learning from Scratch for QA via Self-Planning,C,ACL,2024,A,0.6886,105,241
+AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning,C,NeurIPS,2024,A,0.6886,95,241
+GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing,C,NeurIPS,2024,A,0.6886,162,176
+Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems,C,AAAI,2025,A,0.6885,30,100
+TRACER: Trajectory Risk Aggregation for Critical Episodes in Agentic Reasoning,C,ICML,2026,A,0.6864,13,12
+Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems,C,ACL,2025,A,0.6814,12,134
+Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents,C,ACL,2026,A,0.6754,4,120
+SecureVibeBench: Benchmarking Secure Vibe Coding of AI Agents via Reconstructing Vulnerability-Introducing Scenarios,C,ACL,2026,A,0.675,5,21
+E-mem: Multi-Agent Based Episodic Context Reconstruction for LLM Agent Memory,C,ICML,2026,A,0.6682,6,32
+LearNAT: Learning NL2SQL with AST-guided Task Decomposition for Large Language Models,C,ICLR,2026,A,0.6661,6,7
+"AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls",C,ICML,2024,A,0.6583,31,317
+Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression,C,AAAI,2026,A,0.6539,8,2
+Debate or Vote: Which Yields Better Decisions in Multi-Agent Large Language Models?,C,NeurIPS,2025,A,0.6485,13,94
+Small LLMs Are Weak Tool Learners: A Multi-LLM Agent,C,EMNLP,2024,A,0.6471,57,243
+Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy,C,NeurIPS,2024,A,0.6433,48,1347
+CityNavAgent: Aerial Vision-and-Language Navigation with Hierarchical Semantic Planning and Global Memory,C,ACL,2025,A,0.6401,19,17
+ToolTree: Efficient LLM Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning,C,ICLR,2026,A,0.6364,5,19
+PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records,C,ACL,2026,A,0.6346,2,33
+Detecting Data Contamination from Reinforcement Learning Post-training for Large Language Models,C,ICLR,2026,A,0.6329,3,15
+AlphaZero-Like Tree-Search can Guide Large Language Model Decoding and Training,C,ICML,2024,A,0.6314,57,287
+"MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration",C,EMNLP,2024,A,0.6314,96,44
+HiPRAG: Hierarchical Process Rewards for Efficient Agentic Retrieval Augmented Generation,C,ICLR,2026,A,0.63,5,27
+TUMIX: Multi-Agent Test-Time Scaling with Tool-Use Mixture,C,ICLR,2026,A,0.6286,13,4
+WALT: Web Agents that Learn Tools,C,ICLR,2026,A,0.6264,3,80
+AdaMEM: Test-Time Adaptive Memory for Language Agents,C,ICML,2026,A,0.6254,6,15
+EffGen: Enabling Small Language Models as Capable Autonomous Agents,C,ICML,2026,A,0.6218,2,210
+"Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents",C,ICLR,2026,A,0.6132,1,202
+Reinforced Efficient Reasoning via Semantically Diverse Exploration,C,ACL,2026,A,0.6125,6,13
+When Identity Skews Debate: Anonymization for Bias-Reduced Multi-Agent Reasoning,C,ACL,2026,A,0.6111,8,1
+Absolute Zero: Reinforced Self-play Reasoning with Zero Data,C,NeurIPS,2025,A,0.61,470,
+AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts,C,ACL,2026,A,0.61,40,
+Agent Workflow Memory,C,ICML,2025,A,0.61,485,
+Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models,C,ICLR,2026,A,0.61,433,
+AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications,C,ICML,2026,A,0.61,66,
+APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay,C,NeurIPS,2025,A,0.61,186,
+AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents,C,ACL,2024,A,0.61,604,
+Automated Design of Agentic Systems,C,ICLR,2025,A,0.61,468,
+Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks,C,ICML,2026,A,0.61,114,
+CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing,C,ICLR,2024,A,0.61,1109,
+CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities,C,ICML,2025,A,0.61,159,
+Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions,C,ICLR,2026,A,0.61,224,
+Evaluating Very Long-Term Conversational Memory of LLM Agents,C,ACL,2024,A,0.61,1359,
+ExpeL: LLM Agents Are Experiential Learners,C,AAAI,2024,A,0.61,1335,
+G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks,C,ICML,2025,A,0.61,156,
+Gaia2: Benchmarking LLM Agents on Dynamic and  Asynchronous Environments,C,ICLR,2026,A,0.61,63,
+Graph of Thoughts: Solving Elaborate Problems with Large Language Models,C,AAAI,2024,A,0.61,1701,
+Improving Factuality and Reasoning in Language Models through Multiagent Debate,C,ICML,2024,A,0.61,2677,
+"Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models",C,ICML,2024,A,0.61,775,
+MemEvolve: Meta-Evolution of Agent Memory Systems,C,ICML,2026,A,0.61,123,
+MemGen: Weaving Generative Latent Memory for Self-Evolving Agents,C,ICLR,2026,A,0.61,113,
+Multi-agent Architecture Search via Agentic Supernet,C,ICML,2025,A,0.61,177,
+Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks,C,ICML,2025,A,0.61,254,
+Reward Hacking Benchmark: Measuring Exploits in LLM Agents with Tool Use,C,ICML,2026,A,0.61,41,
+Self-Rewarding Language Models,C,ICML,2024,A,0.61,920,
+SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning,C,ICLR,2026,A,0.61,153,
+VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning and Abstract Syntax Tree (AST)-based Waveform Tracing Tool,C,AAAI,2025,A,0.61,189,
+WebArena: A Realistic Web Environment for Building Autonomous Agents,C,ICLR,2024,A,0.61,2532,
+WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models,C,ACL,2024,A,0.61,875,
+s3: You Don't Need That Much Data to Train a Search Agent via RL,C,EMNLP,2025,A,0.6083,10,849
+Agentic RL Scaling Law: Spontaneous Code Execution for Mathematical Problem Solving,C,NeurIPS,2025,A,0.6042,14,91
+Sculptor: Empowering LLMs with Cognitive Agency via Active Context Management,C,ICLR,2026,A,0.6,5,3
+Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation,C,AAAI,2025,A,0.5994,16,4
+Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools,C,ACL,2025,A,0.5972,88,
+AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML,C,ICML,2025,A,0.5972,139,
+Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models,C,ICLR,2025,A,0.5972,77,
+MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems,C,ICML,2025,A,0.5972,110,
+Self-Evolving Multi-Agent Collaboration Networks for Software Development,C,ICLR,2025,A,0.5972,84,
+Graph-of-Agents: A Graph-based Framework for Multi-Agent LLM Collaboration,C,ICLR,2026,A,0.5961,2,59
+A Goal Without a Plan Is Just a Wish: Efficient and Effective Global Planner Training for Long-Horizon Agent Tasks,C,ACL,2026,A,0.5943,24,
+EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings,C,ICML,2026,A,0.5943,23,
+SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents,C,ICML,2026,A,0.5943,22,
+TodoEvolve: Learning to Architect Agent Planning Systems,C,ICML,2026,A,0.5918,4,22
+"MAS$^2$: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems",C,ICLR,2026,A,0.5904,21,
+"OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization",C,ACL,2025,A,0.5884,9,89
+EvoRoute: Experience-Driven Self-Routing LLM Agent Systems,C,ACL,2026,A,0.5864,18,
+"Memory is Reconstructed, Not Retrieved:  Graph Memory for LLM Agents",C,ICML,2026,A,0.5864,19,
+PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems,C,EMNLP,2026,A,0.5864,19,
+Experience-Evolving Multi-Turn Tool-Use Agent with Hybrid Episodic–Procedural Memory,C,ICML,2026,A,0.585,7,6
+Reducing Tool Hallucination via Reliability Alignment,C,ICML,2025,A,0.5844,58,
+Robotouille: An Asynchronous Planning Benchmark for LLM Agents,C,ICLR,2025,A,0.5844,44,
+Self-Challenging Language Model Agents,C,NeurIPS,2025,A,0.5844,70,
+ToolGen: Unified Tool Retrieval and Calling via Generation,C,ICLR,2025,A,0.5844,53,
+MapCoder: Multi-Agent Code Generation for Competitive Problem Solving,C,ACL,2024,A,0.5838,385,
+T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step,C,ACL,2024,A,0.5802,32,313
+Can a Single Model Master Both Multi-turn Conversations and Tool Use? CoALM: A Unified Conversational Agentic Language Model,C,ACL,2025,A,0.5798,7,9425
+Eigen-Agent: Adaptive Multi-Agent Scientific Reasoning with Monitor-Based RAG,C,ICLR,2026,A,0.5786,14,
+Large Language Model Agents Are Not Always Faithful Self-Evolvers,C,ICML,2026,A,0.5786,15,
+Learning to Orchestrate Agents in Natural Language with the Conductor,C,ICLR,2026,A,0.5786,16,
+Sponge Tool Attack: Stealthy Denial-of-Efficiency against Tool-Augmented Agentic Reasoning,C,ICML,2026,A,0.5786,16,
+Uncertainty-Aware Clarification in LLM Agents with Information Gain,C,ICML,2026,A,0.5786,15,
+LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error,C,ACL,2024,A,0.5733,36,124
+AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning,C,ICML,2026,A,0.5707,13,
+Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Deliberation,C,ICLR,2026,A,0.5707,13,
+Beyond the Context Window: Scaling Agentic RL via End-to-end Optimized Context Compression,C,ACL,2026,A,0.5629,12,
+COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context,C,ACL,2026,A,0.5629,11,
+RGMem: Renormalization Group–inspired Memory Evolution for Language Agents,C,ICML,2026,A,0.5629,12,
+Lookahead Tree-Based Rollouts for Enhanced Trajectory-Level Exploration in Reinforcement Learning with Verifiable Rewards,C,ICLR,2026,A,0.5618,2,11
+Facilitating Multi-turn Function Calling for LLMs via Compositional Instruction Tuning,C,ICLR,2025,A,0.5588,39,
+AgentGym: Evaluating and Training Large Language Model-based Agents across Diverse Environments,C,ACL,2025,A,0.5581,5,856
+AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?,C,EMNLP,2024,A,0.5576,211,
+WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning,C,EMNLP,2025,A,0.5547,7,100
+OpenHA: A Series of Open-Source Hierarchical Agentic Models in Minecraft,C,ICML,2026,A,0.5532,1,48
+"AI Research Agents for Machine Learning: Search, Exploration, and Generalization in MLE-bench",C,NeurIPS,2025,A,0.549,8,179
+Generalizable End-to-End Tool-Use RL with Synthetic CodeGym,C,ICLR,2026,A,0.5489,1,41
+ToolRL: Reward is All Tool Learning Needs,C,NeurIPS,2025,A,0.546,34,
+PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents,C,ICML,2026,A,0.5446,1,309
+GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents,C,AAAI,2026,A,0.5404,2,7
+When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems,C,ICML,2026,A,0.5382,4,9
+MOA: Multi-Objective Alignment for Role-Playing Agents,C,ACL,2026,A,0.5318,4,0
+Reflective Multi-Agent Collaboration based on Large Language Models,C,NeurIPS,2024,A,0.5314,87,
+ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search,C,ICLR,2024,A,0.5314,119,
+ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models,C,EMNLP,2024,A,0.5312,37,25
+Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments,C,EMNLP,2024,A,0.5305,45,38
+MEMORYLLM: Towards Self-Updatable Large Language Models,C,ICML,2024,A,0.5302,20,330
+FT-Dojo: Towards Autonomous LLM Fine-Tuning with Language Agents,C,ICML,2026,A,0.5186,0,15256
+What are the Essential Factors in Crafting Effective Long Context Multi-Hop Instruction Datasets? Insights and Best Practices,C,ACL,2025,A,0.5128,7,44
+Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy,C,ACL,2026,A,0.5125,1,21
+Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use,C,ICML,2026,A,0.5079,7,
+GraphAgent: Agentic Graph Language Assistant,C,EMNLP,2025,A,0.5072,5,372
+SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning,C,NeurIPS,2025,A,0.5023,7,30
+AgentRefine: Enhancing Agent Generalization through Refinement Tuning,C,ICLR,2025,A,0.5007,12,22
+Long-Horizon Planning for Multi-Agent Robots in Partially Observable Environments,C,NeurIPS,2024,A,0.5005,41,44
+Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data,C,ACL,2026,A,0.4996,1,17
+SynthAgent: Adapting Web Agents with Synthetic Supervision,C,ACL,2026,A,0.4846,1,36
+A Survey of Large Language Model-Based Search Agents,C,ACL,2026,A,0.4843,0,214
+"When ""Correct"" Is Not Safe: Can We Trust Functionally Correct Patches Generated by Code Agents?",C,ACL,2026,A,0.4825,1,13
+PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories for Complex Problem Solving,C,EMNLP,2025,A,0.4821,24,
+PsychoGAT: A Novel Psychological Measurement Paradigm through Interactive Fiction Games with LLM Agents,C,ACL,2024,A,0.479,78,
+Thinking in Character: Advancing Role-Playing Agents with Role-Aware Reasoning,C,NeurIPS,2025,A,0.4733,9,3
+Large Language Models as Zero-shot Dialogue State Tracker through Function Calling,C,ACL,2024,A,0.4707,27,71
+NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks In Open Domains,C,ICLR,2025,B,0.4693,22,
+Reinforce LLM Reasoning through Multi-Agent Reflection,C,ICML,2025,B,0.4693,21,
+NESTFUL: A Benchmark for Evaluating LLMs on Nested Sequences of API Calls,C,EMNLP,2025,B,0.4676,11,19
+Pride and Prejudice: LLM Amplifies Self-Bias in Self-Refinement,C,ACL,2024,B,0.4636,51,10
+Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory,C,ACL,2026,B,0.4589,2,2
+SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents,C,ICML,2026,B,0.4521,0,86
+daVinci-Dev: Agent-native Mid-training for Software Engineering,C,ICML,2026,B,0.4457,0,85
+Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL,C,NeurIPS,2025,B,0.4437,15,
+SE-GUI: Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning,C,NeurIPS,2025,B,0.4373,6,110
+RedCodeAgent: Automatic Red-teaming Agent against Diverse Code Agents,C,ICLR,2026,B,0.4354,1,15
+"ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox",C,ICML,2026,B,0.4332,4,
+InfoMosaic-Bench: Evaluating Multi-Source Information Seeking in Tool-Augmented Agents,C,ICLR,2026,B,0.4332,4,
+PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning,C,AAAI,2026,B,0.4332,4,
+Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent,C,EMNLP,2024,B,0.4326,19,139
+KARL: Reinforcement Learning for LLM Agents on Multi-Turn Knowledge-Intensive Agentic Tasks,C,ACL,2026,B,0.4246,1,5
+ThinkPersona: Thinking with Persona Graphs for Faithful Individualized Role-Playing,C,ACL,2026,B,0.4246,1,5
+ToolOmni: Enabling Open-World Tool Use via Agentic learning with Proactive Retrieval and Grounded Execution,C,ACL,2026,B,0.4246,1,5
+MAGELLAN: Metacognitive predictions of learning progress guide autotelic LLM agents in large goal spaces,C,ICML,2025,B,0.4245,13,
+Native Active Perception as Reasoning for Omni-Modal Understanding,C,ICML,2026,B,0.4221,0,86
+Long Context Modeling with Ranked Memory-Augmented Retrieval,C,ACL,2026,B,0.4143,3,0
+AgentGym-RL: An Open-Source Framework to Train LLM Agents for Long-Horizon Decision Making via Multi-Turn RL,C,ICLR,2026,B,0.4136,0,892
+Agentic Reinforced Policy Optimization,C,ICLR,2026,B,0.4136,0,1143
+OptiCo: Adaptive Distributed Training Optimization via Collaborative Agent Reasoning,C,ACL,2026,B,0.4118,2,3
+ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages,C,ACL,2024,B,0.4107,18,15
+"LLM Agents in Law: Taxonomy, Applications, and Challenges",C,ACL,2026,B,0.4057,3,
+MOC: Multi-Order Communication in LLM-based Multi-Agent Systems,C,ICML,2026,B,0.4057,3,
+Opponent Shaping in LLM Agents,C,ICLR,2026,B,0.4057,3,
+OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents,C,ICML,2026,B,0.4057,3,
+Reducing Belief Deviation in Reinforcement Learning for Active Reasoning of LLM Agents,C,ICLR,2026,B,0.4057,3,
+TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination,C,ICML,2026,B,0.4057,3,
+Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing,C,ACL,2026,B,0.4057,3,
+QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback based Self-Correction,C,ACL,2024,B,0.4005,46,
+Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory,C,ICML,2026,B,0.3857,0,26
+Extracting Events Like Code: A Multi-Agent Programming Framework for Zero-Shot Event Extraction,C,AAAI,2026,B,0.3839,1,12
+MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering,C,ICML,2026,B,0.3814,0,25
+ToolDial: Multi-turn Dialogue Generation Method for Tool-Augmented Language Models,C,ICLR,2025,B,0.3802,3,26
+Interactive and Expressive Code-Augmented Planning with Large Language Models,C,ACL,2025,B,0.3734,11,
+WebArbiter: A Generative Reasoning Process Reward Model for Web Agents,C,ICLR,2026,B,0.3668,1,8
+Structure Enables Effective Self-Localization of Errors in LLMs,C,ICML,2026,B,0.3646,1,5
+Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling,C,ICML,2026,B,0.3625,2,
+Discovery and Reinforcement of Tool-Integrated Reasoning Chains via Rollout Trees,C,ACL,2026,B,0.3625,2,
+When AI Agents Compete for Jobs: Strategic Capabilities and Economic Dynamics of AI Labour Markets,C,ICML,2026,B,0.3625,2,
+Automated Composition of Agents: A Knapsack Approach for Agentic Component Selection,C,NeurIPS,2025,B,0.3606,10,
+ReCAP: Recursive Context-Aware Reasoning and Planning for Large Language Model Agents,C,NeurIPS,2025,B,0.3606,10,
+Stochastic Self-Organization in Multi-Agent Systems,C,ICLR,2026,B,0.3561,1,7
+Beyond Frameworks: Unpacking Collaboration Strategies in Multi-Agent Systems,C,ACL,2025,B,0.3506,4,6
+C-3PO: Compact Plug-and-Play Proxy Optimization to Achieve Human-like Retrieval-Augmented Generation,C,ICML,2025,B,0.3465,2,44
+Working Memory Capacity of ChatGPT: An Empirical Study,C,AAAI,2024,B,0.3426,13,16
+S^3cMath: Spontaneous Step-Level Self-Correction Makes Large Language Models Better Mathematical Reasoners,C,AAAI,2025,B,0.3424,6,0
+SYMPHONY: Synergistic Multi-agent Planning with Heterogeneous Language Model Assembly,C,NeurIPS,2025,B,0.3222,8,
+Think before Go: Hierarchical Reasoning for Image-goal Navigation,C,ACL,2026,B,0.3175,1,3
+Don't Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls,C,ACL,2025,B,0.3173,6,3
+Can Agent Fix Agent Issues?,C,NeurIPS,2025,B,0.3151,2,21
+AgentSquare: Automatic LLM Agent Search in Modular Design Space,C,ICLR,2025,B,0.303,0,235
+When is Tree Search Useful for LLM Planning? It Depends on the Discriminator,C,ACL,2024,B,0.3019,9,54
+A Stitch in Time Saves Nine: Proactive Self-Refinement for Language Models,C,ICLR,2026,B,0.2979,0,6
+Meta-Reflection: A Feedback-Free Reflection Learning Framework,C,ACL,2025,B,0.2942,2,9
+The Value of Variance: Mitigating Debate Collapse in Multi-Agent Systems via Uncertainty-Driven Policy Optimization,C,ICML,2026,B,0.2918,1,1
+Multi-Agent Debate with Memory Masking,C,ICLR,2026,B,0.2914,0,14
+Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation,C,ICML,2026,B,0.2768,1,0
+When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents,C,ICML,2026,B,0.2764,0,12
+A Two-Tier Perspective on Inference-Time Parallelism in Multi-Agent LLM Systems,C,ICML,2026,B,0.2682,1,
+ToolWeaver: Weaving Collaborative Semantics for Scalable Tool Use in Large Language Models,C,ICLR,2026,B,0.2682,1,
+Large Language Models Can Self-Correct with Key Condition Verification,C,EMNLP,2024,B,0.2517,17,7
+Select-Then-Decompose: From Empirical Analysis to Adaptive Selection Strategy for Task Decomposition in Large Language Models,C,EMNLP,2025,B,0.2484,3,7
+Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning,C,EMNLP,2024,B,0.2469,7,55
+From Capabilities to Performance: Evaluating Key Functional Properties of LLM Architectures in Penetration Testing,C,EMNLP,2025,B,0.2455,6,
+Don't Adapt Small Language Models for Tools; Adapt Tool Schemas to the Models,C,ACL,2026,B,0.2443,0,1
+D-GARA: A Dynamic Benchmarking Framework for GUI Agent Robustness in Real-World Anomalies,C,AAAI,2026,B,0.2357,0,9
+"Reason for Future, Act for Now: A Principled Architecture for Autonomous LLM Agents",C,ICML,2024,B,0.2302,17,
+EA-Agent: A Structured Multi-Step Reasoning Agent for Entity Alignment,C,ACL,2026,B,0.2293,0,0
+TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution,C,ICML,2026,B,0.2293,0,8
+PlanningArena: A Modular Benchmark for Multidimensional Evaluation of Planning and Tool Learning,C,ACL,2025,B,0.2271,3,0
+Stepwise Informativeness Search for Improving LLM Reasoning,C,EMNLP,2025,B,0.2258,2,3
+Towards Robust Multi-Modal Reasoning via Model Selection,C,ICLR,2024,B,0.2219,9,14
+Fixing Distribution Shifts of LLM Self-Critique via On-Policy Self-Play Training,C,ACL,2025,B,0.2209,2,0
+From Self-Check to Consensus: Bayesian Strategic Decoding in Large Language Models,C,NeurIPS,2025,B,0.2135,5,
+DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality,C,ACL,2026,B,0.21,0,3
+GenesisFunc: Multi-Agent Data Generation for Accurate and Generalizable Function-Calling,C,ACL,2026,B,0.2079,0,6
+PaceLLM: Brain-Inspired Large Language Models for Long-Context Understanding,C,NeurIPS,2025,B,0.2047,0,3
+Self-Refine Instruction-Tuning for Aligning Reasoning in Language Models,C,EMNLP,2024,B,0.2005,9,8
+CRPO: Character-centric Group Relative Policy Optimization for Role-aware Reasoning in Role-playing Agents,C,ICML,2026,B,0.1886,0,4
+MemoryART: Enhancing LLMs via Multi-Memory Models with Adaptive Resonance Theory for Healthcare Agents,C,AAAI,2026,B,0.1671,0,2
+Online Continual Learning for Interactive Instruction Following Agents,C,ICLR,2024,B,0.166,4,32
+Belief-Calibrated Multi-Agent Consensus Seeking for Complex NLP Tasks,C,NeurIPS,2025,B,0.1484,2,2
+A Diagnostic Study of Multi-Agent LLMs for Real-World Debates,C,ICML,2026,B,0.1307,0,
+BFCL Audio: An Audio Function Calling Evaluation for Large Language Models,C,ICML,2026,B,0.1307,0,
+DreamPhase: Offline Imagination and Uncertainty-Guided Planning for Large-Language-Model Agents,C,ICLR,2026,B,0.1307,0,
+EvoC2F: Compiling Tool Orchestration for Efficient and Evolvable LLM Agents,C,ICML,2026,B,0.1307,0,
+EvoCF: Multi-Agent Collaboration via Agentic Memory-Driven Evolutionary Counterfactual Planning,C,ICML,2026,B,0.1307,0,
+Evolving Agents,C,ACL,2026,B,0.1307,0,
+From Interactions to Principles: Experience-Driven Self-Distillation for Evolving LLM Agents,C,ICML,2026,B,0.1307,0,
+HiPER: Hierarchical Plan–Execute RL for Multi-Turn LLM Agents,C,ICML,2026,B,0.1307,0,
+How Far Can LLM Agents Reason with Tables? Benchmarking Multi-Turn Agentic Table Question Answering in the Wild,C,ICML,2026,B,0.1307,0,
+LightWM: Training-Free Hierarchical Working Memory for Small Language Model Agents,C,ICML,2026,B,0.1307,0,
+OrchestrationBench: LLM-Driven Agentic Planning and Tool Use in Multi-Domain Scenarios,C,ICLR,2026,B,0.1307,0,
+Persistent Semantic Entities in Tool-Augmented LLM Systems,C,ICML,2026,B,0.1307,0,
+Self-Critique and Refinement for Faithful Natural Language Explanations,C,EMNLP,2025,B,0.1202,0,1
+Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent,C,EMNLP,2025,B,0.11,1,2
+Working Memory Identifies Reasoning Limits in Language Models,C,EMNLP,2024,B,0.1064,5,5
+Coarse-to-Fine Grounded Memory for LLM Agent Planning,C,EMNLP,2025,B,0.0728,0,
+Enhancing Language Model Agents using Diversity of Thoughts,C,ICLR,2025,B,0.0728,0,
+MetaAgent: Automatically Constructing Multi-Agent Systems Based on Finite State Machines,C,ICML,2025,B,0.0728,0,
+The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models,C,ICML,2025,B,0.0728,0,
+{$\tau$}-bench: A Benchmark for \underline{T}ool-\underline{A}gent-\underline{U}ser Interaction in Real-World Domains,C,ICLR,2025,B,0.0728,0,
+MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework,C,ICLR,2024,B,0.06,0,
+Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning,C,ACL,2026,S,,299,132
