@@ -10,6 +10,7 @@
 <meta property="og:description" content="A benchmark for frontier AI paper discovery and recommendation.">
 <meta property="og:image" content="https://conmuyan.github.io/frontierlitbench/preview.png">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="build" content="cff0fbd7">
 <style>
 :root{
   --ink:#11242C; --ink2:#3E5A66; --ink3:#7F98A3;
@@ -203,7 +204,9 @@ footer .wrap{display:flex;justify-content:flex-end}
 footer a{text-decoration:none;border-bottom:1px solid rgba(127,152,163,.4)}
 footer a:hover{border-color:var(--ink3)}
 footer p{margin:0;max-width:56ch;line-height:1.7}
-footer nav a{margin-left:18px;display:inline-flex;align-items:center;gap:6px}
+footer nav{display:inline-flex;align-items:center;gap:18px}
+footer nav a{display:inline-flex;align-items:center;gap:6px}
+.buildid{font-size:10.5px;color:var(--ink3);opacity:.6;letter-spacing:.02em;margin-right:8px}
 footer .gh{width:13px;height:13px;flex:0 0 auto}
 </style>
 <noscript><style>.sea svg{opacity:1;transform:none}.trend path.draw{stroke-dashoffset:0}
@@ -234,7 +237,7 @@ footer .gh{width:13px;height:13px;flex:0 0 auto}
       and the venues that count; an agent returns five papers, ranked. The question is whether those five
       are the ones that actually moved the field.</p>
     <div class="acts">
-      <a href="dashboard.html">Open the dashboard</a>
+      <a href="dashboard.html?v=cff0fbd7">Open the dashboard</a>
       <a class="quiet" href="#construction">Read the protocol</a>
     </div>
 
@@ -385,7 +388,7 @@ footer .gh{width:13px;height:13px;flex:0 0 auto}
     <p>Nine hundred positions, each with its reason for missing: out of scope, invalid, lower tier, or
       absent. The dashboard is one offline file with no network requests.</p>
     <div class="acts">
-      <a href="dashboard.html">Open the dashboard</a>
+      <a href="dashboard.html?v=cff0fbd7">Open the dashboard</a>
       <a class="quiet" href="data/frontierlit-v1.1-library.csv" download>Download the library</a>
     </div>
   </div>
@@ -393,7 +396,7 @@ footer .gh{width:13px;height:13px;flex:0 0 auto}
 
 <footer>
   <div class="wrap">
-    <nav><a href="dashboard.html">Dashboard</a><a href="https://github.com/ConmuYan/frontierlitbench"><svg class="gh" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .297a12 12 0 0 0-3.797 23.4c.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.387-1.333-1.756-1.333-1.756-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23a11.5 11.5 0 0 1 6 0c2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57A12 12 0 0 0 12 .297Z"/></svg>Repository</a><a href="https://github.com/ConmuYan/frontierlitbench/tree/main/data">Dataset</a></nav>
+    <nav><span class="buildid">build cff0fbd7</span><a href="dashboard.html?v=cff0fbd7">Dashboard</a><a href="https://github.com/ConmuYan/frontierlitbench"><svg class="gh" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .297a12 12 0 0 0-3.797 23.4c.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.387-1.333-1.756-1.333-1.756-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23a11.5 11.5 0 0 1 6 0c2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57A12 12 0 0 0 12 .297Z"/></svg>Repository</a><a href="https://github.com/ConmuYan/frontierlitbench/tree/main/data">Dataset</a></nav>
   </div>
 </footer>
 
