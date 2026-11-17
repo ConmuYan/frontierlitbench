@@ -3,7 +3,8 @@
 Five literature-search agents evaluated on the same 15 tasks (video / world models / LLM agents),
 3 runs each, scored against a **757-paper** frontier literature library.
 
-**Live dashboard → https://conmuyan.github.io/frontierlitbench/**
+**Landing page → https://conmuyan.github.io/frontierlitbench/**  
+**Dashboard → https://conmuyan.github.io/frontierlitbench/dashboard.html**
 
 ## Headline results (main protocol)
 
