@@ -211,6 +211,7 @@ tbody tr.sel{background:#EAF3F1}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 </style>
+<meta name="build" content="19c554a0 · 2026-11-17 12:01 UTC">
 <meta name="description" content="FrontierLitBench FB-1.1 — five literature-search agents compared on 15 tasks x 3 runs over a 757-paper frontier literature library. Interactive offline dashboard.">
 <meta property="og:type" content="website">
 <meta property="og:title" content="FrontierLitBench FB-1.1">
@@ -449,6 +450,9 @@ function syncChrome(){
   $("#railstat").innerHTML = `库内 <b>${lib.records.length}</b> 篇 · 未收录 <b>${lib.rejected.length}</b><br>`+
     `任务 <b>15</b> · 每任务 <b>3</b> 次运行 · 每系统 <b>225</b> 个位置`;
   $("#railfoot").innerHTML = `数据集：原语料 ∪ 全部合规新增论文，同权评分。IDCG 恒为 14.7423。`;
+  const bm=document.querySelector('meta[name="build"]');
+  $("#footer").innerHTML = `FrontierLitBench FB-1.1 · build <span class="num">${bm?bm.content:"local"}</span>`+
+    ` · 5 agents × 15 tasks × 3 runs · IDCG 14.7423`;
 }
 function chart(id, option){
   const node=$("#"+id); if(!node) return null;
